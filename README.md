@@ -38,7 +38,7 @@
 
 ## **Clock-Sec-OriginHacker: 電子鐘附秒版-經典款 (絕影駭客)**  
 為Clock-Sec-Origin的一種視覺類效果(Skin)套用版本  
-用大量的二進制數碼計算占用了大部分的效能CPU不夠力千萬別使用!  
+用大量的二進制數碼計算占用了大部分的效能，CPU不夠力千萬別使用!  
 - 唯一一款開啟時還需要加載的電子鐘
 
 ![GIF](gif/Clock-Sec-OriginHacker.gif)
