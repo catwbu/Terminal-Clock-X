@@ -14,7 +14,7 @@
 增加了秒數顯示且增加了每秒畫面刷新次數  
 - 帶有舒適的畫面感極穩定的畫面輸出最基本也最經典的電子鐘
 
-![GIF](gif/Clock-Origin.gif)
+![GIF](gif/Clock-Sec-Origin.gif)
 
 ## **Clock-Sec-OriginGhost: 電子鐘附秒版-經典款 (幽駭魅影)**  
 為Clock-Sec-Origin的一種視覺類效果(Skin)套用版本  
